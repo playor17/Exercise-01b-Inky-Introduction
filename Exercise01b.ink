@@ -50,10 +50,6 @@ You found the gold piled up and a way out of the cave.
 + [Go Back]
 -> END
 
-=== Exit_the_Cave ===
-Now you came out of the cave.
--> END
-
 == LeftDoor ==
 It is very dark, you can't see anything.
 + {torch_pickup} [Light Torch] -> Get_a_Sword
@@ -72,4 +68,8 @@ You now have a torch. May it light the way.
 
 == east_tunnel_lit ==
 The light of your torch glints off the thousands of coins in the room.
+-> END
+
+=== Exit_the_Cave ===
+Now you came out of the cave.
 -> END
